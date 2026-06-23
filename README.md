@@ -69,8 +69,9 @@ The main objective was to analyze whether a lightweight SAM2 backbone, Hiera-Tin
 - Documented the final report, presentation materials, and project summary.
 - Contributed to organizing experimental results across 7 OVSS benchmarks.
 
-___
-## Research Outputs
+---
+
+## 📄 Research Outputs
 
 ### Paper
 - ScopeCLIP: Region-Mask Training-Free Open-Vocabulary Semantic Segmentation with Lightweight SAM2  
@@ -82,7 +83,7 @@ ___
 ### Software Copyright
 - Software copyright registration in progress: NACLIP-SR-MC v1.0, Python/Linux.
 
-___
+---
 
 ## 🏆 Honors & Awards
 
